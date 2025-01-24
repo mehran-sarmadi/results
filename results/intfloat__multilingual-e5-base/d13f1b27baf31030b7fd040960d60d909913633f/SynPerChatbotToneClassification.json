@@ -1,7 +1,7 @@
 {
   "dataset_revision": "SynPerChatbotToneClassification_is_a_combined_dataset",
   "task_name": "SynPerChatbotToneClassification",
-  "mteb_version": "NA",
+  "mteb_version": "1.25.8",
   "scores": {
     "test": [
       {

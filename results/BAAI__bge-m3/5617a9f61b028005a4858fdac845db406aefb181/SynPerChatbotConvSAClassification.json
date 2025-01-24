@@ -1,7 +1,7 @@
 {
   "dataset_revision": "SynPerChatbotConvSAClassification_is_a_combined_dataset",
   "task_name": "SynPerChatbotConvSAClassification",
-  "mteb_version": "NA",
+  "mteb_version": "1.25.8",
   "scores": {
     "test": [
       {
