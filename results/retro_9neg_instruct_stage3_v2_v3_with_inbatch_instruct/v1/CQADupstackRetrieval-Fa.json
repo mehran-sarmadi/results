@@ -5,8 +5,8 @@
   "scores": {
     "test": [
       {
-        "ndcg_at_10": 0.153223,
-        "main_score": 0.153223,
+        "ndcg_at_10": 0.173983,
+        "main_score": 0.173983,
         "hf_subset": "default",
         "languages": [
           "fas-Arab"
@@ -14,6 +14,6 @@
       }
     ]
   },
-  "evaluation_time": 1741.8921320438385,
+  "evaluation_time": 1657.006242275238,
   "kg_co2_emissions": NaN
 }
