@@ -1,0 +1,34 @@
+{
+  "dataset_revision": "62ca5aecb9414214162569f2f1bfb07aa219a70e",
+  "task_name": "BeytooteClustering",
+  "mteb_version": "1.34.14",
+  "scores": {
+    "test": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.613901,
+            0.57621,
+            0.537484,
+            0.590728,
+            0.555873,
+            0.601135,
+            0.579137,
+            0.557081,
+            0.561496,
+            0.550608
+          ]
+        },
+        "v_measure": 0.572365,
+        "v_measure_std": 0.022945,
+        "main_score": 0.572365,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 75.37793302536011,
+  "kg_co2_emissions": null
+}
