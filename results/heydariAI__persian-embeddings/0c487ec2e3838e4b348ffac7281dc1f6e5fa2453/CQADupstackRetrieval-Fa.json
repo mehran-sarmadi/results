@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "1",
+  "task_name": "CQADupstackRetrieval-Fa",
+  "mteb_version": "1.38.34",
+  "scores": {
+    "test": [
+      {
+        "ndcg_at_10": 0.23939,
+        "main_score": 0.23939,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 4768.778240203857,
+  "kg_co2_emissions": NaN
+}

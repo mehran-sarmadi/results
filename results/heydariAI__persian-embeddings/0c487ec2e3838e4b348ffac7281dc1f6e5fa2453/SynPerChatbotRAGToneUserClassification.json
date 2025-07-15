@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "f1f6ad83bb135dc94fbf1ca05c3ba164f5619369",
+  "task_name": "SynPerChatbotRAGToneUserClassification",
+  "mteb_version": "1.38.34",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.419871,
+        "f1": 0.414763,
+        "f1_weighted": 0.430201,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.404784,
+            "f1": 0.395516,
+            "f1_weighted": 0.422195
+          },
+          {
+            "accuracy": 0.419503,
+            "f1": 0.410834,
+            "f1_weighted": 0.432504
+          },
+          {
+            "accuracy": 0.442502,
+            "f1": 0.430804,
+            "f1_weighted": 0.457422
+          },
+          {
+            "accuracy": 0.414903,
+            "f1": 0.406429,
+            "f1_weighted": 0.421749
+          },
+          {
+            "accuracy": 0.390064,
+            "f1": 0.386536,
+            "f1_weighted": 0.390765
+          },
+          {
+            "accuracy": 0.409384,
+            "f1": 0.410181,
+            "f1_weighted": 0.417205
+          },
+          {
+            "accuracy": 0.427783,
+            "f1": 0.433109,
+            "f1_weighted": 0.437268
+          },
+          {
+            "accuracy": 0.464581,
+            "f1": 0.448553,
+            "f1_weighted": 0.47805
+          },
+          {
+            "accuracy": 0.412144,
+            "f1": 0.414714,
+            "f1_weighted": 0.424245
+          },
+          {
+            "accuracy": 0.413063,
+            "f1": 0.410958,
+            "f1_weighted": 0.420605
+          }
+        ],
+        "main_score": 0.419871,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 52.98489189147949,
+  "kg_co2_emissions": null
+}
