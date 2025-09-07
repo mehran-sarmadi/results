@@ -1,0 +1,26 @@
+{
+  "dataset_revision": "f8b8d630f631c6c16b7bc3cb924bdf62a51bed06",
+  "task_name": "Farsick",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "pearson": 0.807983,
+        "spearman": 0.741101,
+        "cosine_pearson": 0.807983,
+        "cosine_spearman": 0.741093,
+        "manhattan_pearson": 0.776141,
+        "manhattan_spearman": 0.741005,
+        "euclidean_pearson": 0.776141,
+        "euclidean_spearman": 0.741094,
+        "main_score": 0.741093,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 10.656399250030518,
+  "kg_co2_emissions": null
+}

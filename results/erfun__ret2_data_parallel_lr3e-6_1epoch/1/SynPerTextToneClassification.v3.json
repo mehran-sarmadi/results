@@ -1,0 +1,95 @@
+{
+  "dataset_revision": "ff6d88107a89abeb10aa28751b31d78831d7d503",
+  "task_name": "SynPerTextToneClassification.v3",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.860109,
+        "f1": 0.837421,
+        "f1_weighted": 0.863507,
+        "ap": 0.906768,
+        "ap_weighted": 0.906768,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.863388,
+            "f1": 0.835477,
+            "f1_weighted": 0.864684,
+            "ap": 0.893864,
+            "ap_weighted": 0.893864
+          },
+          {
+            "accuracy": 0.873292,
+            "f1": 0.847041,
+            "f1_weighted": 0.874353,
+            "ap": 0.90068,
+            "ap_weighted": 0.90068
+          },
+          {
+            "accuracy": 0.823429,
+            "f1": 0.803853,
+            "f1_weighted": 0.830561,
+            "ap": 0.901255,
+            "ap_weighted": 0.901255
+          },
+          {
+            "accuracy": 0.853484,
+            "f1": 0.834181,
+            "f1_weighted": 0.858565,
+            "ap": 0.915191,
+            "ap_weighted": 0.915191
+          },
+          {
+            "accuracy": 0.861339,
+            "f1": 0.838936,
+            "f1_weighted": 0.864826,
+            "ap": 0.908019,
+            "ap_weighted": 0.908019
+          },
+          {
+            "accuracy": 0.86168,
+            "f1": 0.841929,
+            "f1_weighted": 0.866012,
+            "ap": 0.91663,
+            "ap_weighted": 0.91663
+          },
+          {
+            "accuracy": 0.889686,
+            "f1": 0.868852,
+            "f1_weighted": 0.891382,
+            "ap": 0.920305,
+            "ap_weighted": 0.920305
+          },
+          {
+            "accuracy": 0.854167,
+            "f1": 0.830655,
+            "f1_weighted": 0.857852,
+            "ap": 0.902364,
+            "ap_weighted": 0.902364
+          },
+          {
+            "accuracy": 0.856216,
+            "f1": 0.829282,
+            "f1_weighted": 0.858509,
+            "ap": 0.894042,
+            "ap_weighted": 0.894042
+          },
+          {
+            "accuracy": 0.864413,
+            "f1": 0.844007,
+            "f1_weighted": 0.868324,
+            "ap": 0.915334,
+            "ap_weighted": 0.915334
+          }
+        ],
+        "main_score": 0.860109,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 5.5791730880737305,
+  "kg_co2_emissions": null
+}

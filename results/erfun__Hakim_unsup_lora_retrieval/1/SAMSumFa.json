@@ -1,0 +1,22 @@
+{
+  "dataset_revision": "fd981d78a0ab82c20d2e693a8b3929c5d71b0743",
+  "task_name": "SAMSumFa",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "precision": 0.947174,
+        "recall": 0.960282,
+        "f1": 0.9511,
+        "accuracy": 0.960282,
+        "main_score": 0.9511,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 14.26625680923462,
+  "kg_co2_emissions": null
+}

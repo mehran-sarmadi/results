@@ -1,0 +1,26 @@
+{
+  "dataset_revision": "914047db08928b5326d8b106583dc563b73d1ecf",
+  "task_name": "SynPerSTS",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "pearson": 0.814404,
+        "spearman": 0.8444,
+        "cosine_pearson": 0.814404,
+        "cosine_spearman": 0.8444,
+        "manhattan_pearson": 0.845758,
+        "manhattan_spearman": 0.847237,
+        "euclidean_pearson": 0.845943,
+        "euclidean_spearman": 0.847342,
+        "main_score": 0.8444,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 18.04906702041626,
+  "kg_co2_emissions": null
+}

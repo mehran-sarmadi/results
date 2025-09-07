@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "1",
+  "task_name": "SynPerChatbotConvSAClassification",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.672334,
+        "main_score": 0.672334,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 215.3625783920288,
+  "kg_co2_emissions": NaN
+}

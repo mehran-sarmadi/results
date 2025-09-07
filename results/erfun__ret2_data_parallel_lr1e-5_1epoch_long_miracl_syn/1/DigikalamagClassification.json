@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "4a10ab01213cb8135748c39c52c8420e63898eab",
+  "task_name": "DigikalamagClassification",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.847887,
+        "f1": 0.700902,
+        "f1_weighted": 0.867501,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.850939,
+            "f1": 0.712116,
+            "f1_weighted": 0.870417
+          },
+          {
+            "accuracy": 0.833333,
+            "f1": 0.695373,
+            "f1_weighted": 0.856803
+          },
+          {
+            "accuracy": 0.857981,
+            "f1": 0.708044,
+            "f1_weighted": 0.875936
+          },
+          {
+            "accuracy": 0.848592,
+            "f1": 0.713926,
+            "f1_weighted": 0.871414
+          },
+          {
+            "accuracy": 0.84507,
+            "f1": 0.691407,
+            "f1_weighted": 0.865717
+          },
+          {
+            "accuracy": 0.848592,
+            "f1": 0.690783,
+            "f1_weighted": 0.864662
+          },
+          {
+            "accuracy": 0.839202,
+            "f1": 0.674216,
+            "f1_weighted": 0.858083
+          },
+          {
+            "accuracy": 0.850939,
+            "f1": 0.710887,
+            "f1_weighted": 0.868468
+          },
+          {
+            "accuracy": 0.840376,
+            "f1": 0.695793,
+            "f1_weighted": 0.861991
+          },
+          {
+            "accuracy": 0.86385,
+            "f1": 0.716472,
+            "f1_weighted": 0.881524
+          }
+        ],
+        "main_score": 0.847887,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 67.80709791183472,
+  "kg_co2_emissions": null
+}

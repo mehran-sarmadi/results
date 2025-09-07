@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "8234b2081bd9ca33bdbc7bf68f5f9540fe3fd480",
+  "task_name": "SIDClassification.v2",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.569435,
+        "f1": 0.521376,
+        "f1_weighted": 0.587382,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.535494,
+            "f1": 0.511703,
+            "f1_weighted": 0.557036
+          },
+          {
+            "accuracy": 0.543531,
+            "f1": 0.501645,
+            "f1_weighted": 0.564753
+          },
+          {
+            "accuracy": 0.550228,
+            "f1": 0.512144,
+            "f1_weighted": 0.562911
+          },
+          {
+            "accuracy": 0.622823,
+            "f1": 0.546358,
+            "f1_weighted": 0.643513
+          },
+          {
+            "accuracy": 0.547549,
+            "f1": 0.507515,
+            "f1_weighted": 0.561275
+          },
+          {
+            "accuracy": 0.577552,
+            "f1": 0.522962,
+            "f1_weighted": 0.593422
+          },
+          {
+            "accuracy": 0.56389,
+            "f1": 0.528195,
+            "f1_weighted": 0.590243
+          },
+          {
+            "accuracy": 0.593089,
+            "f1": 0.518317,
+            "f1_weighted": 0.606634
+          },
+          {
+            "accuracy": 0.566836,
+            "f1": 0.533981,
+            "f1_weighted": 0.583095
+          },
+          {
+            "accuracy": 0.593357,
+            "f1": 0.530942,
+            "f1_weighted": 0.610939
+          }
+        ],
+        "main_score": 0.569435,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 67.14956140518188,
+  "kg_co2_emissions": null
+}

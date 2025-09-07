@@ -1,0 +1,34 @@
+{
+  "dataset_revision": "4a10ab01213cb8135748c39c52c8420e63898eab",
+  "task_name": "DigikalamagClustering",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.465282,
+            0.529584,
+            0.421454,
+            0.463676,
+            0.449254,
+            0.293784,
+            0.41798,
+            0.352341,
+            0.517277,
+            0.535271
+          ]
+        },
+        "v_measure": 0.44459,
+        "v_measure_std": 0.073512,
+        "main_score": 0.44459,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 40.05016541481018,
+  "kg_co2_emissions": null
+}

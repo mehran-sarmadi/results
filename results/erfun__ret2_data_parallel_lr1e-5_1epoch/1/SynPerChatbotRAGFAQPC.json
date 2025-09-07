@@ -1,0 +1,58 @@
+{
+  "dataset_revision": "2128d809e27ab8528906e2231f8e824516fb8e5a",
+  "task_name": "SynPerChatbotRAGFAQPC",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "similarity_accuracy": 0.607636,
+        "similarity_accuracy_threshold": 0.642072,
+        "similarity_f1": 0.666872,
+        "similarity_f1_threshold": 0.20865,
+        "similarity_precision": 0.500692,
+        "similarity_recall": 0.99816,
+        "similarity_ap": 0.658667,
+        "cosine_accuracy": 0.607636,
+        "cosine_accuracy_threshold": 0.642072,
+        "cosine_f1": 0.666872,
+        "cosine_f1_threshold": 0.208649,
+        "cosine_precision": 0.500692,
+        "cosine_recall": 0.99816,
+        "cosine_ap": 0.658667,
+        "manhattan_accuracy": 0.604876,
+        "manhattan_accuracy_threshold": 18.714687,
+        "manhattan_f1": 0.667286,
+        "manhattan_f1_threshold": 26.551846,
+        "manhattan_precision": 0.502799,
+        "manhattan_recall": 0.99172,
+        "manhattan_ap": 0.656741,
+        "euclidean_accuracy": 0.607636,
+        "euclidean_accuracy_threshold": 0.846083,
+        "euclidean_f1": 0.666872,
+        "euclidean_f1_threshold": 1.258054,
+        "euclidean_precision": 0.500692,
+        "euclidean_recall": 0.99816,
+        "euclidean_ap": 0.658667,
+        "dot_accuracy": 0.607636,
+        "dot_accuracy_threshold": 0.642072,
+        "dot_f1": 0.666872,
+        "dot_f1_threshold": 0.20865,
+        "dot_precision": 0.500692,
+        "dot_recall": 0.99816,
+        "dot_ap": 0.658667,
+        "max_accuracy": 0.607636,
+        "max_f1": 0.667286,
+        "max_precision": 0.502799,
+        "max_recall": 0.99816,
+        "max_ap": 0.658667,
+        "main_score": 0.658667,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 4.430197715759277,
+  "kg_co2_emissions": null
+}
