@@ -1,0 +1,34 @@
+{
+  "dataset_revision": "4ceb1312583fd2c7c73ad2d550b726124dcd39a0",
+  "task_name": "NLPTwitterAnalysisClustering",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.8118,
+            0.79102,
+            0.820987,
+            0.81608,
+            0.800347,
+            0.826109,
+            0.798257,
+            0.756253,
+            0.806348,
+            0.813776
+          ]
+        },
+        "v_measure": 0.804098,
+        "v_measure_std": 0.01892,
+        "main_score": 0.804098,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 48.157286405563354,
+  "kg_co2_emissions": null
+}

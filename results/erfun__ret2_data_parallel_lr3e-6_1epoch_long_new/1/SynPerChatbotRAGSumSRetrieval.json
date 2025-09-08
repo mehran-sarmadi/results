@@ -1,0 +1,22 @@
+{
+  "dataset_revision": "f77746f286bbf2177ee7b5a803da8be440d5d4c1",
+  "task_name": "SynPerChatbotRAGSumSRetrieval",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "precision": 0.536915,
+        "recall": 0.636615,
+        "f1": 0.565372,
+        "accuracy": 0.636615,
+        "main_score": 0.565372,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 4.018754005432129,
+  "kg_co2_emissions": null
+}

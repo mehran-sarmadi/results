@@ -1,0 +1,34 @@
+{
+  "dataset_revision": "d361bb18535d592e845aeaaa8ac47a239aa2f87a",
+  "task_name": "SIDClustring",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.419813,
+            0.300994,
+            0.443029,
+            0.426077,
+            0.412143,
+            0.403654,
+            0.391448,
+            0.421652,
+            0.436049,
+            0.342352
+          ]
+        },
+        "v_measure": 0.399721,
+        "v_measure_std": 0.042486,
+        "main_score": 0.399721,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 63.81790471076965,
+  "kg_co2_emissions": null
+}

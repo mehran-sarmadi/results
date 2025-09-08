@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "8d60d8315ac650ef0af32d68c4f92916ffc5cfb8",
+  "task_name": "DeepSentiPers.v2",
+  "mteb_version": "1.38.53",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.625061,
+        "f1": 0.595149,
+        "f1_weighted": 0.634431,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.578467,
+            "f1": 0.553065,
+            "f1_weighted": 0.597014
+          },
+          {
+            "accuracy": 0.648418,
+            "f1": 0.613608,
+            "f1_weighted": 0.661309
+          },
+          {
+            "accuracy": 0.603406,
+            "f1": 0.578193,
+            "f1_weighted": 0.609782
+          },
+          {
+            "accuracy": 0.639294,
+            "f1": 0.611362,
+            "f1_weighted": 0.64563
+          },
+          {
+            "accuracy": 0.650243,
+            "f1": 0.627301,
+            "f1_weighted": 0.657013
+          },
+          {
+            "accuracy": 0.618005,
+            "f1": 0.586152,
+            "f1_weighted": 0.627312
+          },
+          {
+            "accuracy": 0.629562,
+            "f1": 0.603049,
+            "f1_weighted": 0.643406
+          },
+          {
+            "accuracy": 0.63382,
+            "f1": 0.598192,
+            "f1_weighted": 0.637673
+          },
+          {
+            "accuracy": 0.626521,
+            "f1": 0.593156,
+            "f1_weighted": 0.63812
+          },
+          {
+            "accuracy": 0.622871,
+            "f1": 0.587413,
+            "f1_weighted": 0.627048
+          }
+        ],
+        "main_score": 0.625061,
+        "hf_subset": "default",
+        "languages": [
+          "fas-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 3.039999008178711,
+  "kg_co2_emissions": null
+}
